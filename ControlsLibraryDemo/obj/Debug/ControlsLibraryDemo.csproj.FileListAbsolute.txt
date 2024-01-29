@@ -1,0 +1,12 @@
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\bin\Debug\ControlsLibraryDemo.exe.config
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\bin\Debug\ControlsLibraryDemo.exe
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\bin\Debug\ControlsLibraryDemo.pdb
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\obj\Debug\ControlsLibraryDemo.csprojResolveAssemblyReference.cache
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\obj\Debug\ControlsLibraryDemo.Properties.Resources.resources
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\obj\Debug\ControlsLibraryDemo.csproj.GenerateResource.Cache
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\obj\Debug\ControlsLibraryDemo.exe
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\obj\Debug\ControlsLibraryDemo.pdb
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\bin\Debug\ControlsLibrary.dll
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\bin\Debug\ControlsLibrary.pdb
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\obj\Debug\ControlsLibraryDemo.Form1.resources
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibraryDemo\obj\Debug\ControlsLibraryDemo.Form2.resources

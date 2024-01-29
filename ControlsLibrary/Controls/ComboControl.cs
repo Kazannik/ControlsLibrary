@@ -10,7 +10,7 @@ using System.Windows.Forms;
 namespace ControlsLibrary.Controls
 {
     [DesignerCategory("code")]
-    [ToolboxBitmap(typeof(ComboBox))]
+    [ToolboxBitmap(typeof(exComboBox))]
     [ComVisible(false)]
     public abstract class ComboControl<T> : ComboBox where T : ComboControl<T>.IComboBoxItem
     {
@@ -282,7 +282,7 @@ namespace ControlsLibrary.Controls
                 if (item.Code.Contains(code))
                 {
                     i += 1;
-                    this.SelectedItem = item;
+                    SelectedItem = item;
                     if (i > findNext)
                         return true;
                 }
@@ -298,7 +298,7 @@ namespace ControlsLibrary.Controls
                 if (item.Text.ToLower().Contains(text.ToLower()))
                 {
                     i += 1;
-                    this.SelectedItem = item;
+                    SelectedItem = item;
                     if (i > findNext)
                         return true;
                 }

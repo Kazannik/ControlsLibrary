@@ -2,3 +2,9 @@ c:\users\kazannik.m\documents\visual studio 2015\Projects\ControlsLibrary\Contro
 c:\users\kazannik.m\documents\visual studio 2015\Projects\ControlsLibrary\ControlsLibrary\bin\Debug\ControlsLibrary.pdb
 c:\users\kazannik.m\documents\visual studio 2015\Projects\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.dll
 c:\users\kazannik.m\documents\visual studio 2015\Projects\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.pdb
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.dll
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.pdb
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\bin\Debug\ControlsLibrary.dll
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\bin\Debug\ControlsLibrary.pdb
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.Cache
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.Controls.exPickerBoxPopupForm.resources
