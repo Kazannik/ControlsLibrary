@@ -8,3 +8,4 @@ C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibra
 C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\bin\Debug\ControlsLibrary.pdb
 C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.Cache
 C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.Controls.exPickerBoxPopupForm.resources
+C:\Users\kazannik.m\Documents\Visual Studio 2015\Projects\Kazannik\ControlsLibrary\ControlsLibrary\obj\Debug\ControlsLibrary.csprojResolveAssemblyReference.cache

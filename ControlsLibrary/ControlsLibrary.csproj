@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controls\CustomControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Controls\exComboBox.cs" />
     <Compile Include="Controls\exComboBoxItem.cs" />
     <Compile Include="Controls\ComboControl.cs" />
